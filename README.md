@@ -4,7 +4,7 @@ ShopEase is a full-stack e-commerce web application developed as part of my Code
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://shopease-frontend.onrender.com
+- **Frontend:** https://shopease-frontend-0l5p.onrender.com
 - **Backend:** https://shopease-backend-qqm6.onrender.com
 
 ✨ Features
