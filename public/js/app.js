@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api";
+const API = "https://shopease-backend-qqm6.onrender.com";
 
 let currentUser = JSON.parse(localStorage.getItem("shopEaseUser")) || null;
 let products = [];
