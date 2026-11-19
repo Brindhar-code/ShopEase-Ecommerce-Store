@@ -12,7 +12,7 @@ const authRoutes = require("./routes/authRoutes");
 const productRoutes = require("./routes/productRoutes");
 const orderRoutes = require("./routes/orderRoutes");
 const cartRoutes = require("./routes/cartRoutes");
-const wishlistRoutes = require("./routes/wishlistRoutes");
+const wishlistRoutes = require("./routes/WishlistRoutes");
 
 app.use("/api/auth", authRoutes);
 app.use("/api/products", productRoutes);
