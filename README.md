@@ -2,6 +2,11 @@
 
 ShopEase is a full-stack e-commerce web application developed as part of my CodeAlpha internship. It provides users with a simple shopping experience, including product browsing, cart management, wishlist functionality, and order placement.
 
+## 🌐 Live Demo
+
+- **Frontend:** https://shopease-frontend.onrender.com
+- **Backend:** https://shopease-backend-qqm6.onrender.com
+
 ✨ Features
 
 - User registration and login
